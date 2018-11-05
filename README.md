@@ -1,3 +1,3 @@
 # election_2018_forecast
 
-Here is my forecast. Republicans will easily maintain control of the Senate. Democrats will win control of the House . 
+Here is my forecast. Republicans will easily maintain control of the Senate. Democrats will win control of the House. However, voter turnout for Tuesday’s midterm elections may be affected as a potent storm unleashes rain, strong winds and potentially violent thunderstorms across the eastern United States and snow drops into the northern Plains. For example, "Weather was found to be, on average, nearly 20 percent of the change in voter turnout based on our analysis," according to AccuWeather Data Scientist and Meteorologist Tim Loftus. "Democrats are more weather sensitive, when compared to Republicans, and among the most weather-sensitive were African-Americans, those 65 and older and 18-24 year olds," he said.
